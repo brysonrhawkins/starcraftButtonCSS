@@ -1,0 +1,145 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.buttonss, .buttonss-default{
+    font-weight: 700;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    box-shadow: 0 2px 8px rgba(0,0,0,.6), 0 8px 32px rgba(0,0,0,.4);
+    margin-bottom: 1.87137rem;
+    margin-top: 1.87137rem;
+    text-shadow: 0 1px 2px rgba(0,0,0,.8) 0 4px 8px rgba(0,0,0,.6);
+    background-color: transparent;
+    background-image: linear-gradient(180deg, rgba(0,0,0,.9),rgba(0,51,102,.9));
+    background-origin: border-box;
+    color: #9cf;
+    display: block;
+    font-family: Eurostile Extd,Source Sans Pro, sans-serif;
+    font-size: .731rem;
+    line-height: 1;
+    overflow: visable;
+    padding: .625rem 1.6rem;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color .2s, filter .2s, opacity .2s, transform .2s;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    width: 100%;
+    border-image: url(https://static.starcraft2.com/dist/images/button-border-default.5de0a0b2c50376c175921e16935ac4c3.png) 17 60 repeat;
+}
+
+.buttonss-primary{
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.buttons{
+    font-weight: 700;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    box-shadow: 0 2px 8px rgba(0,0,0,.6), 0 8px 32px rgba(0,0,0,.4);
+    margin-bottom: 1.87137rem;
+    margin-top: 1.87137rem;
+    text-shadow: 0 1px 2px rgba(0,0,0,.8) 0 4px 8px rgba(0,0,0,.6);
+    background-color: transparent;
+    background-image: linear-gradient(180deg, rgba(0,0,0,.9),rgba(0,51,102,.9));
+    background-origin: border-box;
+    color: #9cf;
+    display: block;
+    font-family: Eurostile Extd,Source Sans Pro, sans-serif;
+    font-size: 24px;
+    line-height: 1;
+    overflow: visable;
+    padding: .625rem 1.6rem;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color .2s, filter .2s, opacity .2s, transform .2s;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    width: 20vw;
+    border: 5px solid transparent;
+    border-width: 30px;
+    border-right: -50px;
+    padding: -10px;
+    border-image: url(https://static.starcraft2.com/dist/images/button-border-default.5de0a0b2c50376c175921e16935ac4c3.png) 17 60 repeat;
+    border-image-width: 30px;
+}
+
+
+
+
+
+.container2{
+    border: 5px solid transparent;
+    border-width: 1px;
+    border-image: url(https://static.starcraft2.com/dist/images/button-border-default.5de0a0b2c50376c175921e16935ac4c3.png) 19 20 repeat;
+    border-image-width: 38px;
+    border-image-outset: 25px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.button{
+    font-size: 30px;
+    color: white;
+    font-weight: 450;
+    text-shadow: black;
+    border: none;
+    margin: 0px;
+    padding:15px;
+    line-height: 1.7;
+    width: 100%;
+    font-family: "montserrat", sans-serif;
+    text-transform: uppercase;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.sc{
+    margin: 0px;
+    background-image: linear-gradient(180deg, rgba(0,0,0,.9),rgba(0,51,102,.9));
+}
+
+.container3{
+    border: 5px solid transparent;
+    border-width: 1px;
+    border-image: url(https://static.starcraft2.com/dist/images/button-border-primary.99ebe2d26d571360558e0cac8229a033.png) 19 20 repeat;
+    border-image-width: 38px;
+    border-image-outset: 25px;
+    position: absolute;
+    left: 50%;
+    top: 85%;
+    transform: translate(-50%,-85%);
+    text-align: center;
+}
+
+.buttonz{
+    font-size: 30px;
+    color: white;
+    font-weight: 450;
+    text-shadow: black;
+    border: none;
+    margin: 0px;
+    padding:15px;
+    line-height: 1.7;
+    width: 100%;
+    font-family: "montserrat", sans-serif;
+    text-transform: uppercase;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.scz{
+    margin: 0px;
+    background-image: linear-gradient(180deg,rgba(0,0,0,.9),rgba(102,68,0,.9));
+}
